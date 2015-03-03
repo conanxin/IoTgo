@@ -1,8 +1,8 @@
 # IoTgo
 
-## Introdution
+## 介绍
 
-IoTgo is an open source IoT platform, like WordPress, ZenCart and all other open source software, you can deploy your own IoTgo cloud service.
+IoTgo是一个开源的IoT平台，类似WordPress, ZenCart和所有其他的开源软件，你可以部署你自己的IoTgo云服务。
 
 We at ITEAD Studio are committed to provide a complete set of hardware for IoTgo with open source hardware designs and open source firmware.
 
