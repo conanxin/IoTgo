@@ -4,10 +4,6 @@
 
 IoTgo是一个开源的IoT平台，类似WordPress, ZenCart和所有其他的开源软件，你可以部署你自己的IoTgo云服务。
 
-We at ITEAD Studio are committed to provide a complete set of hardware for IoTgo with open source hardware designs and open source firmware.
-
-The overall IoTgo system architecture including IoTgo, IoTgo-compatible apps and IoTgo-compatible devices is illustrated by following graph.
-
 ![IoTgo System Architecture](docs/iotgo-arch.png)
 
 Single-board microcontroller (like Arduino) developers, single-board computer (like Raspberry PI) developers and other embedded system developers could use IoTgo Device API to connect their devices to IoTgo and then easily control their devices by utilizing IoTgo Web App.
